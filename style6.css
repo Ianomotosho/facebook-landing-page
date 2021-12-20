@@ -1,0 +1,47 @@
+body{
+    background-color: indigo;
+}
+
+form{
+    margin:20px auto;
+    width: 320px ;
+}
+
+h1{
+    color: white;
+    text-align: center;
+    padding-top: 100px;
+    margin-bottom: 100px;
+    font-size: 70px;
+    font-weight: bold;
+}
+
+input[type=email]{
+    width: 300px;
+    margin-bottom:19px ;
+    padding: 10px;
+
+}
+
+
+input[type=password]{
+     width:300px;
+     margin-bottom: 19px;
+     padding:10px;
+}
+
+button{
+   background-color: rgb(29, 64, 104);
+   color:white;
+   padding: 10px;
+   margin: 20px auto;
+   width:320px;
+   margin-bottom:200px;
+   
+}
+
+
+a{
+    color: white;
+     margin-left: 60px;
+}
